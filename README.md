@@ -6,3 +6,8 @@ public function staging()
 {
 	testing of git
 }
+
+public function staging2()
+{
+	testing of git2
+}
