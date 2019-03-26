@@ -9,5 +9,5 @@ public function staging()
 
 public function Tuesday()
 {
-	go to live on Git
+	go to live on Git, then do nothing
 }
