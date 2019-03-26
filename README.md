@@ -7,7 +7,7 @@ public function staging()
 	testing of git
 }
 
-public function staging2()
+public function Tuesday()
 {
-	testing of git2
+	go to live on Git
 }
